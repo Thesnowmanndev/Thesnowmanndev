@@ -41,9 +41,6 @@
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
 
 ### Tools 
 [<code>
@@ -70,9 +67,6 @@
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 
@@ -97,6 +91,7 @@ These are my latest posts on [Dev.to](https://dev.to/thesnowmanndev):
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesnowmanndev&theme=algolia)](https://github.com/thesnowmanndev/github-readme-stats)
 
 ---
+
 [linkedin]: https://www.linkedin.com/in/developer-kyle-martin/
 [gmail]: mailto:kyle.martin.0819@gmail.com
 [dev]: https://dev.to/thesnowmanndev	
