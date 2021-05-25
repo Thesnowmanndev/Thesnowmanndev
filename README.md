@@ -86,9 +86,9 @@ These are my latest posts on [Dev.to](https://dev.to/thesnowmanndev):
 
 ## GitHub Stats
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesnowmanndev&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/thesnowmanndev/github-readme-stats)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesnowmanndev&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesnowmanndev&theme=algolia)](https://github.com/thesnowmanndev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesnowmanndev&theme=algolia)
 
 ---
 
