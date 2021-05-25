@@ -92,8 +92,8 @@ These are my latest posts on [Dev.to](https://dev.to/thesnowmanndev):
 
 ## GitHub Stats
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesnowmanndev)](https://github.com/thesnowmanndev/github-readme-stats&count_private=true&show_icons=true?theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesnowmanndev)](https://github.com/thesnowmanndev/github-readme-stats&show_icons=true?theme=algolia)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesnowmanndev&count_private=true&show_icons=true?theme=algolia)](https://github.com/thesnowmanndev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesnowmanndev&show_icons=true?theme=algolia)](https://github.com/thesnowmanndev/github-readme-stats)
 
 ---
 [linkedin]: https://www.linkedin.com/in/developer-kyle-martin/
