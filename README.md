@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ### Hello there :wave: , I'm Kyle Martin.
 
 ## I am an Instructor for Aircraft Maintenance, Undergraduate student, and a Developer!
