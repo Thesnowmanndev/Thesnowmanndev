@@ -56,6 +56,7 @@ These are my latest posts on [Dev.to](https://dev.to/thesnowmanndev):
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesnowmanndev&theme=algolia)
 
+### Note: As of right now my Python development is on hold while I maximize my freetime for college classes to complete my Bachelors of Science in Computer Programming
 ---
 
 [linkedin]: https://www.linkedin.com/in/developer-kyle-martin/
