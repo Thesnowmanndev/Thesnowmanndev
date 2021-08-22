@@ -24,7 +24,9 @@
 ### Languages
 
 [<img alt="java" width="48" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />][Java]
+[<img alt="CSharp" width="48" src="https://www.puresourcecode.com/wp-content/uploads/2020/10/csharp-logo.png" />][CSharp]
 [<img alt="python" width="48" src="https://img.icons8.com/color/240/000000/python.png" />][Python]
+
 [<img alt="html5" width="48" src="https://img.icons8.com/color/240/000000/html-5.png" />][HTML5]
 [<img alt="css3" width="48" src="https://img.icons8.com/color/240/000000/css3.png" />][CSS3]	
 [<img alt="javascript" width="48" src="https://img.icons8.com/color/240/000000/javascript.png" />][JS]
@@ -64,6 +66,7 @@ These are my latest posts on [Dev.to](https://dev.to/thesnowmanndev):
 [dev]: https://dev.to/thesnowmanndev	
 
 [Java]: https://docs.oracle.com/en/java/
+[CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [Python]: https://www.python.org/
 [HTML5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
