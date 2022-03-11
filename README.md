@@ -1,6 +1,6 @@
 ### Hello there :wave: , I'm Kyle Martin.
 
-## I am an Instructor for Aircraft Maintenance, Undergraduate student, and a Developer!
+## I am an Instructor for Aircraft Maintenance and a undergraduate student!
 - :mortar_board: I am currently working on my Bachelors of Science with a major in Computer Programming at Southwestern College
 - :computer: I'm currently learning Software Development 
 - :satellite: I am interested in collaborating on projects!
