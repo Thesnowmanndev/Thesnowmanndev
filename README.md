@@ -2,9 +2,8 @@
 
 ## I am an Instructor for Aircraft Maintenance, Undergraduate student, and a Developer!
 - :mortar_board: I am currently working on my Bachelors of Science with a major in Computer Programming at Southwestern College
-- :computer: I'm currently learning Software Development using the Java language
+- :computer: I'm currently learning Software Development 
 - :satellite: I am interested in collaborating on projects!
-- :calendar: 2021 Goals: Create a full-fledged Java application that relates to my current job in the USAF and write more about computer programming technologies
 - :video_game: Fun Fact: I enjoy classic RPGs and MMORPGs 
 
 ### Connect with me:
