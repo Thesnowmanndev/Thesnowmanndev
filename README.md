@@ -26,10 +26,9 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" alt="nextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<br />
 
----
-
-# Latest Blog Posts
+### Latest Blog Posts
 
 - [Variables in C#](https://kylemartin0819.wordpress.com/2023/05/07/variables-in-c/)
 - [Hello, World!](https://kylemartin0819.wordpress.com/2023/05/06/hello-world/)
