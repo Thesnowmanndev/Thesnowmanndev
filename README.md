@@ -30,8 +30,8 @@
 
 ### Latest Blog Posts
 
-- [Variables in C#](https://kylemartin0819.wordpress.com/2023/05/07/variables-in-c/)
-- [Hello, World!](https://kylemartin0819.wordpress.com/2023/05/06/hello-world/)
+[![variables](https://kylemartin0819.files.wordpress.com/2023/05/programming-1.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/07/variables-in-c/)
+[![HelloWorld](https://kylemartin0819.files.wordpress.com/2023/05/world.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/06/hello-world/)
 
 
 ### 📊 Stats
