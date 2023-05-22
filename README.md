@@ -1,6 +1,6 @@
 # Kyle Martin
 
-**`Section Chief - US Air Force - Aspiring Software Engineer / Developer`**
+**`Aspiring Software Engineer / Developer`**
 
 ✅ Earn a Bachelor's degree of Science with major in Computer Science
 
