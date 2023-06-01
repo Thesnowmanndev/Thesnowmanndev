@@ -32,9 +32,10 @@
 
 ### Latest Blog Posts
 
-[![variables](https://kylemartin0819.files.wordpress.com/2023/05/programming-1.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/07/variables-in-c/)
-[![HelloWorld](https://kylemartin0819.files.wordpress.com/2023/05/world.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/06/hello-world/)
-
+[![IntegralNumbers](https://kylemartin0819.files.wordpress.com/2023/05/integralnumbers.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/31/integral-numeric-types-in-c/)
+[![ReferenceTypesAndStrings](https://kylemartin0819.files.wordpress.com/2023/05/string.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/11/reference-types-and-string-variables-in-c/)
+[![ConversionsInCSharp](https://kylemartin0819.files.wordpress.com/2023/05/cast.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/09/conversions-in-c/)
+[![VariablesInCSharp](https://kylemartin0819.files.wordpress.com/2023/05/programming-1.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/07/variables-in-c/)
 
 ### 📊 Stats
 
