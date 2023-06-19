@@ -28,6 +28,4 @@
 
 ### 📊 Stats
 
-![Kyles GitHub stats](https://github-readme-stats.vercel.app/api?username=thesnowmanndev&show_icons=true&theme=transparent)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Thesnowmanndev&theme=transparent&border_radius=4.5)
