@@ -26,14 +26,6 @@
 <br />
 <br />
 
-
-### Latest Blog Posts
-
-[![IntegralNumbers](https://kylemartin0819.files.wordpress.com/2023/05/integralnumbers.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/31/integral-numeric-types-in-c/)
-[![ReferenceTypesAndStrings](https://kylemartin0819.files.wordpress.com/2023/05/string.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/11/reference-types-and-string-variables-in-c/)
-[![ConversionsInCSharp](https://kylemartin0819.files.wordpress.com/2023/05/cast.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/09/conversions-in-c/)
-[![VariablesInCSharp](https://kylemartin0819.files.wordpress.com/2023/05/programming-1.jpg?w=250)](https://kylemartin0819.wordpress.com/2023/05/07/variables-in-c/)
-
 ### 📊 Stats
 
 ![Kyles GitHub stats](https://github-readme-stats.vercel.app/api?username=thesnowmanndev&show_icons=true&theme=transparent)
