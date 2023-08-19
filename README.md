@@ -6,7 +6,7 @@
 
 ➡️ Complete C# Mastercourse / Programming Challenges
 
-⌚ Build some projects
+➡️ Build some projects
 
 ⌚ Build a successful blog to teach others how to program
 
