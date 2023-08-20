@@ -4,8 +4,6 @@
 
 ✅ Earn a Bachelor's degree of Science with major in Computer Science
 
-➡️ Complete C# Mastercourse / Programming Challenges
-
 ➡️ Build some projects
 
 ⌚ Build a successful blog to teach others how to program
