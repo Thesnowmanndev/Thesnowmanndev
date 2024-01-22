@@ -4,9 +4,9 @@
 
 ✅ Earn a Bachelor's degree of Science with major in Computer Science
 
-➡️ Narrow in on one language
+➡️ Finish The Complete JavaScript Course 2024: From Zero to Expert!
 
-➡️ Build some projects
+⌚ Build a large project
 
 ⌚ Earn a Master's degree of Science with a major in Computer Science (AI?)
 
