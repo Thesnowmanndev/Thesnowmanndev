@@ -8,7 +8,7 @@
 
 ➡️ Finish my JavaScript Learnings Repo Pathway
 
-⌚ Build a large project
+➡️ Build a large project
 
 ### Long Term Goals - Beyond 2024
 
