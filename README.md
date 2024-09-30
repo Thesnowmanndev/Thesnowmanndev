@@ -6,7 +6,7 @@
 
 ### Short Term Goals - 2024
 
-➡️ Learn Python
+➡️ Learn the basics of python
 
 ➡️ Build a large project
 
