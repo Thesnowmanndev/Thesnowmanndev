@@ -6,7 +6,7 @@
 
 ### Short Term Goals - 2024
 
-➡️ Finish my JavaScript Learnings Repo Pathway
+➡️ Learn Python
 
 ➡️ Build a large project
 
