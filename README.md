@@ -4,13 +4,11 @@
 
 ✅ Earn a Bachelor's degree of Science with major in Computer Science
 
-### Short Term Goals - 2024
-
-➡️ Learn the basics of python
+### Short Term Goals 
 
 ➡️ Build a large project
 
-### Long Term Goals - Beyond 2024
+### Long Term Goals 
 
 ⌚ Earn a Master's degree of Science with a major in Computer Science (AI?)
 
